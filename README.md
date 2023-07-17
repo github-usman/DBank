@@ -10,6 +10,7 @@ dfx canister --help
 ```
 
 
+## Screen shots of the live DBank app
 ![Alt text](./screenShots/Dbank%20live.png)
 ## Running the project locally
 
